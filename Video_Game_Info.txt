@@ -1,0 +1,14 @@
+Game ID,Name,Platform,Genre,Purchase Date
+one02,one piece,playstation,adventure,2024-12-15
+min15,minecraft,xbox,adventure,2022-11-26
+eld15,elden ring,playstation,adventure,2023-04-12
+mar00,mario kart,nintendo switch,driving,2024-11-11
+asf08,asphalt 8,nintendo switch,driving,2024-11-26
+eld14,elden ring,xbox,adventure,2025-10-26
+for18,fortnite,playstation,shooter,2021-10-15
+for99,fortnite,nintendo,shooter,2020-12-12
+gta01,gta 5,playstation,action,2025-07-26
+red02,red dead redemption 2,xbox,action,2024-09-29
+jur13,jurassic world,playstation,adventure,2019-02-20
+ter23,terraria,nintendo,adventure,2021-11-27
+blk06,call of duty,playstation,shooter,2023-11-30

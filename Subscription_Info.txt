@@ -1,0 +1,11 @@
+CustomerID,SubscriptionType,StartDate,EndDate
+abcd,Basic,2024-11-11,2026-12-12
+lbro,Premium,2023-06-07,2026-12-11
+efgh,Premium,2023-08-13,2027-05-01
+mnop,Premium,2021-01-09,2027-03-05
+coab,Basic,2024-04-24,2027-07-23
+qrst,Basic,2024-01-01,2027-05-14
+uvwx,Basic,2024-02-02,2027-09-09
+yzab,Basic,2023-03-03,2027-02-01
+wxya,Basic,2022-07-01,2027-06-04
+bcdx,Basic,2023-07-01,2027-11-09

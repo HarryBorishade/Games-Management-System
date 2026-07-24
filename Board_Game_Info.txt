@@ -1,0 +1,13 @@
+Game Id,Name,No Players,Genre,Purchase Date
+mon17,monopoly,2-8,economic strategy,2025-01-01
+snl01,snakes and ladders,2-6,roll and play,2025-11-23
+mon13,monopoly,2-8,Economic strategy,2024-11-19
+sud05,sudoku,1,logic Puzzle,2023-07-07
+con04,connect 4,2,logical strategy,2024-07-01
+che00,chess,2,logical strategy,2025-11-22
+bbs33,battle ship,2,strategy and guessing,2025-11-22
+uno00,uno,2-10,card,2024-11-25
+pok07,poker,2-9,card,2022-11-25
+bla55,blackjack,2-7,card,2023-11-26
+cek71,checkers,2,strategy,2022-12-25
+tab12,table football,2-4,football,2024-02-01
